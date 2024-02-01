@@ -2,15 +2,15 @@
 
 Welcome to my humble corner of the digital realm! I am Boraicho, the Druken Master of Smart Contract Auditing, a seasoned practitioner in the art of ensuring solidity and reliability within decentralized systems. 🛡️🔍
 
- Who Am I?
+## Who Am I?
 
 In the vast expanse of the blockchain universe, I stand as a vigilant guardian, drawing inspiration from the legendary Boraicho, the master of martial arts and the art of the brew. Much like my namesake, I approach smart contract auditing with a blend of wisdom, precision, and a touch of unconventional flair. 🌟🍺
 
- My Journey
+## My Journey
 
 Embarking on this journey of code scrutiny, I have honed my skills through countless encounters with complex contracts and intricate blockchain ecosystems. Like the unpredictable movements of a master inebriated with the wisdom of ages, I navigate through lines of code with finesse, uncovering vulnerabilities and weaknesses with a keen eye. 🏋️‍♂️💡
 
-Purpose of My GitHub Page
+## Purpose of My GitHub Page
 My GitHub page serves as a platform for research and exploration in the realm of smart contract auditing. Here, I share insights, tools, and resources aimed at enhancing the security and reliability of decentralized systems. 📚🔒
 
 ## Let's Connect!
